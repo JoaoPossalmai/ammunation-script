@@ -28,21 +28,3 @@
               </div>
       </body>
       </html>
-      body {
-        background-color: bisque;
-    }
-    
-    header {
-        background-color: blue;
-    }
-    
-    nav li {
-        display: inline;
-         background-color: brown;
-    }
-     
-    nav  {
-        border: cornflowerblue 5px dashed;
-        margin: 0 0 0 15px;
-        padding: 20px;
-    }
